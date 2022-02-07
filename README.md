@@ -31,6 +31,7 @@ HearthStone deck builder is a compact personal card deck builder featuring one o
   
 <strong>This project uses different repository to run the backend and the backend needs to run first. See <a href="https://github.com/hyzr0525/phase-3-project-backend">here</a> for setup instructions </strong>
 <br/>
+   
 Fork the project to you local machine and CD to the project file.
   
   In your terminal run:
