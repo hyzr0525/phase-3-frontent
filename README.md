@@ -20,7 +20,7 @@ HearthStone deck builder is a compact personal card deck builder featuring one o
 <br/>
 <li>Delete cards from a card deck
    
-# Buit With
+# Built With
   
   <li>React
   <li>Sinatra
